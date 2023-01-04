@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > Outline a brief description of your project.
 
 
@@ -11,26 +11,23 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A Lending company is about to take some business decision so we need to do some analysis on the basis of old data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Most of the poeple do payback there loans
+- The people who have taken loan for depth consilidation are the higher in paying it back at full.
+- The people who have taken loan for depth consilidation are also the higher in charged off.
+- People with higher anual income are more liely to pay it back are less in defaulter.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numbpy Library
+- Pandas Library
+- Mitlab Plot & Seaborn Plot for Visualization
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 

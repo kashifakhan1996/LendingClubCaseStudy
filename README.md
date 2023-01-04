@@ -18,10 +18,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Most of the poeple do payback there loans
-- The people who have taken loan for depth consilidation are the higher in paying it back at full.
-- The people who have taken loan for depth consilidation are also the higher in charged off.
-- People with higher anual income are more liely to pay it back are less in defaulter.
+- Most of the people do payback there loans
+- The people who have taken loan for depth consolidation are the higher in paying it back at full.
+- The people who have taken loan for depth consolidation are also the higher in charged off.
+- People with higher anual income are more likely to pay it back are less in defaulter.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

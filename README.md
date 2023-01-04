@@ -1,9 +1,9 @@
 # Lending Club Case Study
-> Analysis of old data in order to take decision for business for a Lending company.I have followed approach 
--Data I=description
--Data Cleaning involved filling null entries,removing not needed columns,adding needed columns,removing outliers etc
--Analysis of data
--Ploting of data
+> Analysis of old data in order to take decision for business for a Lending company.I have followed approach. 
+- Data description.
+- Data Cleaning involved filling null entries,removing not needed columns,adding needed columns,removing outliers etc.
+- Analysis of data.
+- Ploting of data.
 
 ## Table of Contents
 * [General Info](#general-information)

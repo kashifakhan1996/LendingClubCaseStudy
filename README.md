@@ -1,12 +1,14 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
-
+> Analysis of old data in order to take decision for business for a Lending company.I have followed approach 
+-Data I=description
+-Data Cleaning involved filling null entries,removing not needed columns,adding needed columns,removing outliers etc
+-Analysis of data
+-Ploting of data
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -31,15 +33,9 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [kashifakhan1996] - feel free to contact me!
 
 
 <!-- Optional -->
